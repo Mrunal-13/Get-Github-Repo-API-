@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **If error of  ***plugin eslint*** appear after you start app in browser then open package-json in editor and save the file every time you run the app.**
 
+## IMAGES
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/1.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/2.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/3.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/4.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/5.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/6.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/7.png){width = 50%}
+
 ## Available Scripts
 
 In the project directory, you can run:
