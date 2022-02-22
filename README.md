@@ -7,13 +7,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 **If error of  ***plugin eslint*** appear after you start app in browser then open package-json in editor and save the file every time you run the app.**
 
 ## IMAGES
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/1.png){width = 50%}
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/2.png){width = 50%}
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/3.png){width = 50%}
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/4.png){width = 50%}
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/5.png){width = 50%}
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/6.png){width = 50%}
-![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/7.png){width = 50%}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/1.png){image no. 1}
+
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/2.png){image no. 2}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/3.png){image no. 3}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/4.png){image no. 4}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/5.png){image no. 5}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/6.png){image no. 6}
+![image1](https://github.com/Mrunal-13/Get-Github-Repo-API-/blob/master/images/7.png){image no. 7}
 
 ## Available Scripts
 
