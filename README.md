@@ -1,3 +1,5 @@
+# Introduction
+Using the GitHub public API, for a given GitHub username, display all public repos and stars in a table. Use React and Ant-D as a programming and design framework.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
