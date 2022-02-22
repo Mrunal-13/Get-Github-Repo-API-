@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**If error of  ***plugin eslint*** appear after you start app in browser then open package-json in editor and save the file every time you run the app.**
+
 ## Available Scripts
 
 In the project directory, you can run:
